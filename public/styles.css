@@ -135,13 +135,13 @@ form .form-inner input[type="submit"]:hover,
 }
 
 form .form-inner input[placeholder="Your Name"] {
-  font-size: 11px;
+  font-size: 10.5px;
 }
 
 form .form-inner input[placeholder="Your Email"] {
-  font-size: 11px;
+  font-size: 10.5px;
 }
 
 form .form-inner input[placeholder="Enter Password"] {
-  font-size: 11px;
+  font-size: 10.5px;
 }
