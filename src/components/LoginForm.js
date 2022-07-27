@@ -8,7 +8,7 @@ function LoginForm({ Login, error }) {
 
     Login(details);
   };
-  // Form
+  // Form comment
   return (
     <form onSubmit={submitHandler}>
       <div className="form-inner">
